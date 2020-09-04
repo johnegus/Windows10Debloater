@@ -1,2 +1,4 @@
-powershell -ExecutionPolicy Bypass -File script.ps1
-//to get admin authority for one file
+//to get admin authority for the file and run it as well in one step
+
+powershell -ExecutionPolicy Bypass -File .\Windows10DebloaterGUI.ps1
+
